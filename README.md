@@ -39,4 +39,4 @@ Atualmente trabalho com desenvolvimento de aplicações escaláveis, APIs REST, 
 ## 📫 Contato
 
 - LinkedIn: https://linkedin.com/in/danisilva25
-- E-mail: seuemail@...
+- E-mail: danilosilvafernandes25@gmail.com
