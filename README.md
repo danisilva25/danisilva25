@@ -1,6 +1,6 @@
 # Olá, eu sou Danilo da Silva Fernandes 👋
 
-💻 Software Engineer com foco em desenvolvimento Backend utilizando C# e .NET.
+💻 Desenvolvedor FullStack especializado em construir aplicações escaláveis, resilientes e observáveis utilizando o ecossistema .NET.
 
 Atualmente trabalho com desenvolvimento de aplicações escaláveis, APIs REST, microsserviços, mensageria e observabilidade, aplicando boas práticas de arquitetura de software.
 
