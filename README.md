@@ -1,8 +1,42 @@
-- 👋 Olá eu sou Danilo da Silva Fernandes
-- 👀 Me interesso por criação de sites e sistemas para Desktop
-- 🌱 Atualmente estou me aprofundando meus conhecimentos em c#
+# Olá, eu sou Danilo da Silva Fernandes 👋
 
-<!---
-danisilva25/danisilva25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Software Engineer com foco em desenvolvimento Backend utilizando C# e .NET.
+
+Atualmente trabalho com desenvolvimento de aplicações escaláveis, APIs REST, microsserviços, mensageria e observabilidade, aplicando boas práticas de arquitetura de software.
+
+## 🚀 Tecnologias
+
+### Backend
+- C#
+- .NET
+- ASP.NET Core
+- Entity Framework Core
+
+### Frontend
+- React
+- TypeScript
+- JavaScript
+
+### Arquitetura
+- Microsserviços
+- Arquitetura Orientada a Eventos
+- RabbitMQ
+- Dapr
+
+### Observabilidade
+- OpenTelemetry
+- Prometheus
+- Grafana
+- Loki
+- Jaeger
+
+### Infraestrutura
+- Docker
+- Kubernetes
+- PostgreSQL
+- SQL Server
+
+## 📫 Contato
+
+- LinkedIn: https://linkedin.com/in/danisilva25
+- E-mail: seuemail@...
